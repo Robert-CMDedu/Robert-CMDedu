@@ -1,1 +1,3 @@
-Right now this profile has nothing of importance other then some random repos i edited once for a weird project or me trying to test VSCodium
+This profile has one decent repo (just a fork reverting minor changes)
+Robert-CMDedu/modpack is decent
+everything else is worthless, please do not use for production
